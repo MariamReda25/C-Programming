@@ -8,3 +8,5 @@
     Assignemnt 1 : Basics language practicing (Data types- Decision making statements - loops )
     
     Assignment 2 : Function concepts Practicing ( Definition - Decleration - calling )
+
+    Assignment 3 : Array and String Practicing
